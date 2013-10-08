@@ -1,0 +1,154 @@
+net.o net.o: net.c \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdio.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/cdefs.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_symbol_aliasing.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_posix_availability.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/Availability.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/AvailabilityInternal.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/_types.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_types.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/machine/_types.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/i386/_types.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/secure/_stdio.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/secure/_common.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/string.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/strings.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/secure/_string.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/types.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/appleapiopts.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/machine/types.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/i386/types.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/i386/_types.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/machine/endian.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/i386/endian.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_endian.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/libkern/_OSByteOrder.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/libkern/i386/_OSByteOrder.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_structs.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/socket.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/machine/_param.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/i386/_param.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/net/if.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/net/if_var.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdint.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/time.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/time.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/_structs.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_select.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/queue.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/ioctl.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/ttycom.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/ioccom.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/filio.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/sockio.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/netinet/in.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/netinet6/in6.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/arpa/inet.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/unistd.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/unistd.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/select.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/net/if_dl.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/ifaddrs.h \
+  net.h
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdio.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/cdefs.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_symbol_aliasing.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_posix_availability.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/Availability.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/AvailabilityInternal.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/_types.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_types.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/machine/_types.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/i386/_types.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/secure/_stdio.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/secure/_common.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/string.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/strings.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/secure/_string.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/types.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/appleapiopts.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/machine/types.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/i386/types.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/i386/_types.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/machine/endian.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/i386/endian.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_endian.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/libkern/_OSByteOrder.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/libkern/i386/_OSByteOrder.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_structs.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/socket.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/machine/_param.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/i386/_param.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/net/if.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/net/if_var.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdint.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/time.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/time.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/_structs.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_select.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/queue.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/ioctl.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/ttycom.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/ioccom.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/filio.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/sockio.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/netinet/in.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/netinet6/in6.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/arpa/inet.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/unistd.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/unistd.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/select.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/net/if_dl.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/ifaddrs.h:
+
+net.h:

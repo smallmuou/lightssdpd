@@ -1,0 +1,90 @@
+iterator.o iterator.o: iterator.c list.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdlib.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/Availability.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/AvailabilityInternal.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/_types.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_types.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/cdefs.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_symbol_aliasing.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_posix_availability.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/machine/_types.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/i386/_types.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/wait.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/signal.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/appleapiopts.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/machine/signal.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/i386/signal.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/i386/_structs.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_structs.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/machine/_structs.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/mach/i386/_structs.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/resource.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/machine/endian.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/i386/endian.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_endian.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/libkern/_OSByteOrder.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/libkern/i386/_OSByteOrder.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/alloca.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/machine/types.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/i386/types.h \
+  /Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/i386/_types.h
+
+list.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdlib.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/Availability.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/AvailabilityInternal.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/_types.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_types.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/cdefs.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_symbol_aliasing.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_posix_availability.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/machine/_types.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/i386/_types.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/wait.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/signal.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/appleapiopts.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/machine/signal.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/i386/signal.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/i386/_structs.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_structs.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/machine/_structs.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/mach/i386/_structs.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/resource.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/machine/endian.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/i386/endian.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_endian.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/libkern/_OSByteOrder.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/libkern/i386/_OSByteOrder.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/alloca.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/machine/types.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/i386/types.h:
+
+/Developer//Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/i386/_types.h:

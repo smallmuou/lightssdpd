@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iHome_controller/!svn/ver/390/trunk/lightssdpd/src/.deps
+END
+lightssdpc.Po
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iHome_controller/!svn/ver/390/trunk/lightssdpd/src/.deps/lightssdpc.Po
+END
+lightssdpd.Po
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iHome_controller/!svn/ver/390/trunk/lightssdpd/src/.deps/lightssdpd.Po
+END
+net.Po
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iHome_controller/!svn/ver/390/trunk/lightssdpd/src/.deps/net.Po
+END
+iterator.Po
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iHome_controller/!svn/ver/390/trunk/lightssdpd/src/.deps/iterator.Po
+END
+ssdp.Po
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iHome_controller/!svn/ver/390/trunk/lightssdpd/src/.deps/ssdp.Po
+END
+ssdp_log.Po
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iHome_controller/!svn/ver/390/trunk/lightssdpd/src/.deps/ssdp_log.Po
+END
+daemonize.Po
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iHome_controller/!svn/ver/390/trunk/lightssdpd/src/.deps/daemonize.Po
+END
+http_parser.Po
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/iHome_controller/!svn/ver/390/trunk/lightssdpd/src/.deps/http_parser.Po
+END
+list.Po
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iHome_controller/!svn/ver/390/trunk/lightssdpd/src/.deps/list.Po
+END
+device.Po
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iHome_controller/!svn/ver/390/trunk/lightssdpd/src/.deps/device.Po
+END
+ssdp_packet.Po
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/iHome_controller/!svn/ver/390/trunk/lightssdpd/src/.deps/ssdp_packet.Po
+END
+threadpool.Po
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iHome_controller/!svn/ver/390/trunk/lightssdpd/src/.deps/threadpool.Po
+END
